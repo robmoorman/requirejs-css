@@ -8,7 +8,7 @@
 ## Usage
 
 Stylesheets can be required as dependencies just like the way we're used to require text files.
-Instead of prefixing your dependency with ***text!***, use ***css!*. The plugin will generate a style block in the head section.
+Instead of prefixing your dependency with ***text!***, use ***css!***. The plugin will generate a style block in the head section.
 
 ### Example
 
